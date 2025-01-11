@@ -1,5 +1,5 @@
 import hero from "../assets/hero.mp4";
-import herophoto from "../assets/hero.jpg";
+import herophoto from "../assets/hero.jpeg";
 import logo from "../assets/logo.png";
 
 const HeroSection = () => {
