@@ -109,7 +109,7 @@ export const CUSINES = [
     image: indian,
     title: "Canadian",
     description:
-      "Indulge in the rich and diverse tastes of India, with a menu that celebrates the country's culinary heritage.",
+      "Indulge in the rich and diverse tastes of Canada, with a menu that celebrates the country's culinary heritage.",
   },
 ];
 
